@@ -1,66 +1,66 @@
 var sentence=[
-"Der Berg hat B?ume und ?ste, und das Herz is t glücklich mit dir. Du wei?t es nicht."
-"Wenn das Leben wie der erste Blick ist, warum ist der Herbstwind traurig, einen Fan zu zeichnen."
-"Es ist schwer, Wasser zu sein, aber Wushan ist keine Wolke."
-"Zehn Jahre Leben und Tod sind grenzenlos. Wenn du nicht darüber nachdenkst, wirst du es nie vergessen."
-"Acacia is t ohne Worte. Verschwende keine Tr?nen auf Blumenpapier."
-"Es ist traurig, Abschied zu nehmen. Die letzten beiden sollten gleich sein. Es ist unm?glich, sich über den Mond zu beschweren."
-"Tausende von Gold-longitudinalen Buy-Phase, wie Fu, puls, wer sagt diese Situation.",
-"Wenn du mein Acacia-Tor betrittst, wei?t du, dass meine Akazie bitter ist. Lange Acacia, lange Acacia, kurze Acacia, unendlich."
-"Sentimental seit der Antike tut es weh zu gehen. Es ist peinlicher, das Qingqiu Festival zu ignorieren."
-"Das stille Wasser flie?t tief, die Wechself?lle des Lebens singen; drei Leben sind voll von Yin und Qing, und eines Tages ist voll von Freuden und Sorgen."
-"Der Berg hat B?ume und ?ste, und das Herz is t glücklich mit dir. Du wei?t es nicht."
-"Das weite Land ist mit einem Schwert gebrochen, wo ist der Wohlstand und Gesang."
-"Wenn man sich auf die Wolken stützt, verbergen sich Tausende von T?pfen Einsamkeit, selbst wenn andere mich auslachen."
-"Wenn der Frühling vergeht, wird Sch?nheit alt, Blumen fallen und Menschen sterben."
-"Wenn alle Blumen und Pistile ersch?pft sind, begleite ich dich allein."
-"Wenn du das Leben genie?en kannst, wirst du im Tod nichts bereuen."
-"Bewahre die ewige Liebe auf und zermalme die rote Acacia."
-"Die exquisiten Würfel, ein Hongdou, sind ineinander verliebt."
-"Alle Arten von Geschichten, aber Gefühle verletzt; leicht Wasser Menschen gehen, der helle Mond ist wie Frost."
-"Gib mir drei Feuerwerke für dein Leben."
-"Schickt euch ein Lied ohne zu fragen. Am Ende des Liedes werden sich die Leute versammeln und zerstreuen."
-"Der kleine Lotus zeigt nur seine scharfen Ecken, und Libellen haben lange auf seinem Kopf gestanden."
-"Der Kristallvorhang bewegt sich, die Brise steigt, und der Rosengarten ist voller Duft."
-"Cicadas machen L?rm, der Wald ist ruhiger, und V?gel singen, der Berg ist abgeschiedener."
-"Der Wind im Weidehof ist ruhig, und die Leute schlafen tagsüber. Der Wind im Weidehof ist ruhig."
-"Im Duft der Reisblumen gibt es ein gutes Jahr. H?re auf den Klang der Fr?sche."
-"Egrets fliegen in der Wüste Paddy Feld, und Orioles singen im dunklen Sommerholz."
-"Das Gras hat ein helles Ende, nicht Feuer. Obwohl der Lotus Tau ein Ball ist, ist es keine Perle."
-"April ist klar und der Regen ist klar, und Nanshan wird klar."
-"Ein Lotus lebt noch im Teich, und der Wind vor der Sill sendet einen sü?en Geruch."
-"Wenn das Wasser voll ist, sieht man manchmal die Reiher, und wenn das Gras tief ist, singen überall Fr?sche."
-"T?ler singen an einem sonnigen Tag, und Flussaffen heulen im Abendwind."
-"Die rhombischen Bl?tter verweilen in den Wellen, der Lotusbwind weht, und das Boot geht durch die Tiefen des Lotus."
-"Die bittere Nacht im Mittsommer ist kurz, und die offene Veranda ist etwas kühl."
-"Pflaumgrün, Pflaumengelb, pflanzliches Fett, Weizenreif, sericultural besch?ftigt."
-"Der Lotus will reden, aber er sorgt sich um den Bootsmann."
-"Wenn der Nebel und die Weide dunkel sind, verbringen die Wolken den Mond, und der Wasserfluss ist Glühwürmchen beim Drehen von Tau und Lotus."
-"Wei?es Filz wird auf den Pappelschblüten auf dem Kiesweg gelegt, und grünes Geld wird auf den Lotusbl?ttern im Strom gestapelt."
-"Das reisende M?dchen bringt Blumen, um sich mit ihrem Partner zu kuscheln und zu lachen, um schlank und anmutig zu sein, und um die Gruppe Lotus zu falten, um die Abendfotos zu bedecken."
-"Yu Jian, der letzte General, ist bereit, für die Cao-Familie seit Generationen durch Feuer und Wasser zu gehen."
-"Sieh es dir an und erlebe es."
-"Tausende Kraniche im Frühlingshimmel sind wie Tr?ume, und Tausende von V?geln in der Abendwelle sind wie Gesang."
-"Die Realit?t ist nicht zersplittert, denn der Traum k?mpft immer noch um Unterstützung."
-"Die wahren Farben eines Helden k?nnen nur gesehen werden, wenn das Meer flie?t."
-"Wo die Bl?tter fliegen, wird das Feuer nie aufh?ren",
-"Du kannst jederzeit die Leine loslassen, aber erwarte nicht, dass ich zurückkomme."
-"Ich mag dich, aber genau wie du."
-"Behalten Sie Ihre Leidenschaft für Ihre Hobbys und seien Sie nicht zu utilitaristisch!":
-"Du stoppst im Frühling, im einzigartigen Frühling."
-"Die Menschen k?nnen die Herzen der Menschen nicht ?ndern, und die Ernsthaftigkeit kann keine tiefe Liebe bekommen. Egal wie gut du es machst, manche Menschen werden die Augen verschlie?en; egal, wie viel du sagst, manche Leute werden taub werden."
-"Niemand wird als ausgezeichneter Mensch geboren. Man kann nicht ausgezeichnet sein, aber man kann nicht die Motivation verlieren, Fortschritte machen und sein Leben vergeuden."
-"Versagen ist nicht lustig und manchmal unglücklich, aber es ist noch schlimmer, ein Leben zu führen, das nie sorgf?ltig versagt."
-"Versuchen Sie, alle Tage zu füllen. Lassen Sie sich nicht von Einsamkeit umgeben. Bitte behandeln und sch?tzen Sie sich und geben Sie sich einen starken Grund. Es gibt nichts im Leben, das nicht vergehen kann."
-"Keine Stra?e ist flach, kein Berg ist zerklüftet, und das Meer wird nicht ruhig sein."
-"Es gibt eine Geschichte den ganzen Weg zurück, einen festen Schritt nach unten, und eine klare Distanz nach oben."
-"Wer Licht in seinem Herzen hat, wird durch alle Finsternis und Dornen brechen."
-"Du musst nicht tapfer sein, die Zeit wird dich heilen."
-"Spiel nicht mit deinem Herzen, sei nicht in deinen Gefühlen gefangen, fürchte dich nicht vor der Zukunft, lies nicht die Vergangenheit, also sei vorsichtig."
-"Wenn das Herz keinen Platz zum Ausruhen hat, wandert es überall."
-"Wenn ich so einen Stolperstein gekannt h?tte, wie h?tte ich mich am Anfang nicht kennen k?nnen."
-"Vielleicht bin ich nur ein Passant in deinem Leben, aber du wirst mich nicht in der Sekunde treffen."
-"Jugend ist ein übereiltes Buch. Wir lesen es immer wieder mit Tr?nen in den Augen."
+"Der Berg hat B?ume und ?ste, und das Herz is t glücklich mit dir. Du wei?t es nicht.",
+"Wenn das Leben wie der erste Blick ist, warum ist der Herbstwind traurig, einen Fan zu zeichnen.",
+"Es ist schwer, Wasser zu sein, aber Wushan ist keine Wolke.",
+"Zehn Jahre Leben und Tod sind grenzenlos. Wenn du nicht darüber nachdenkst, wirst du es nie vergessen.",
+"Acacia is t ohne Worte. Verschwende keine Tr?nen auf Blumenpapier.",
+"Es ist traurig, Abschied zu nehmen. Die letzten beiden sollten gleich sein. Es ist unm?glich, sich über den Mond zu beschweren.",
+"Tausende von Gold-longitudinalen Buy-Phase, wie Fu, puls, wer sagt diese Situation.",,
+"Wenn du mein Acacia-Tor betrittst, wei?t du, dass meine Akazie bitter ist. Lange Acacia, lange Acacia, kurze Acacia, unendlich.",
+"Sentimental seit der Antike tut es weh zu gehen. Es ist peinlicher, das Qingqiu Festival zu ignorieren.",
+"Das stille Wasser flie?t tief, die Wechself?lle des Lebens singen; drei Leben sind voll von Yin und Qing, und eines Tages ist voll von Freuden und Sorgen.",
+"Der Berg hat B?ume und ?ste, und das Herz is t glücklich mit dir. Du wei?t es nicht.",
+"Das weite Land ist mit einem Schwert gebrochen, wo ist der Wohlstand und Gesang.",
+"Wenn man sich auf die Wolken stützt, verbergen sich Tausende von T?pfen Einsamkeit, selbst wenn andere mich auslachen.",
+"Wenn der Frühling vergeht, wird Sch?nheit alt, Blumen fallen und Menschen sterben.",
+"Wenn alle Blumen und Pistile ersch?pft sind, begleite ich dich allein.",
+"Wenn du das Leben genie?en kannst, wirst du im Tod nichts bereuen.",
+"Bewahre die ewige Liebe auf und zermalme die rote Acacia.",
+"Die exquisiten Würfel, ein Hongdou, sind ineinander verliebt.",
+"Alle Arten von Geschichten, aber Gefühle verletzt; leicht Wasser Menschen gehen, der helle Mond ist wie Frost.",
+"Gib mir drei Feuerwerke für dein Leben.",
+"Schickt euch ein Lied ohne zu fragen. Am Ende des Liedes werden sich die Leute versammeln und zerstreuen.",
+"Der kleine Lotus zeigt nur seine scharfen Ecken, und Libellen haben lange auf seinem Kopf gestanden.",
+"Der Kristallvorhang bewegt sich, die Brise steigt, und der Rosengarten ist voller Duft.",
+"Cicadas machen L?rm, der Wald ist ruhiger, und V?gel singen, der Berg ist abgeschiedener.",
+"Der Wind im Weidehof ist ruhig, und die Leute schlafen tagsüber. Der Wind im Weidehof ist ruhig.",
+"Im Duft der Reisblumen gibt es ein gutes Jahr. H?re auf den Klang der Fr?sche.",
+"Egrets fliegen in der Wüste Paddy Feld, und Orioles singen im dunklen Sommerholz.",
+"Das Gras hat ein helles Ende, nicht Feuer. Obwohl der Lotus Tau ein Ball ist, ist es keine Perle.",
+"April ist klar und der Regen ist klar, und Nanshan wird klar.",
+"Ein Lotus lebt noch im Teich, und der Wind vor der Sill sendet einen sü?en Geruch.",
+"Wenn das Wasser voll ist, sieht man manchmal die Reiher, und wenn das Gras tief ist, singen überall Fr?sche.",
+"T?ler singen an einem sonnigen Tag, und Flussaffen heulen im Abendwind.",
+"Die rhombischen Bl?tter verweilen in den Wellen, der Lotusbwind weht, und das Boot geht durch die Tiefen des Lotus.",
+"Die bittere Nacht im Mittsommer ist kurz, und die offene Veranda ist etwas kühl.",
+"Pflaumgrün, Pflaumengelb, pflanzliches Fett, Weizenreif, sericultural besch?ftigt.",
+"Der Lotus will reden, aber er sorgt sich um den Bootsmann.",
+"Wenn der Nebel und die Weide dunkel sind, verbringen die Wolken den Mond, und der Wasserfluss ist Glühwürmchen beim Drehen von Tau und Lotus.",
+"Wei?es Filz wird auf den Pappelschblüten auf dem Kiesweg gelegt, und grünes Geld wird auf den Lotusbl?ttern im Strom gestapelt.",
+"Das reisende M?dchen bringt Blumen, um sich mit ihrem Partner zu kuscheln und zu lachen, um schlank und anmutig zu sein, und um die Gruppe Lotus zu falten, um die Abendfotos zu bedecken.",
+"Yu Jian, der letzte General, ist bereit, für die Cao-Familie seit Generationen durch Feuer und Wasser zu gehen.",
+"Sieh es dir an und erlebe es.",
+"Tausende Kraniche im Frühlingshimmel sind wie Tr?ume, und Tausende von V?geln in der Abendwelle sind wie Gesang.",
+"Die Realit?t ist nicht zersplittert, denn der Traum k?mpft immer noch um Unterstützung.",
+"Die wahren Farben eines Helden k?nnen nur gesehen werden, wenn das Meer flie?t.",
+"Wo die Bl?tter fliegen, wird das Feuer nie aufh?ren",,
+"Du kannst jederzeit die Leine loslassen, aber erwarte nicht, dass ich zurückkomme.",
+"Ich mag dich, aber genau wie du.",
+"Behalten Sie Ihre Leidenschaft für Ihre Hobbys und seien Sie nicht zu utilitaristisch!":,
+"Du stoppst im Frühling, im einzigartigen Frühling.",
+"Die Menschen k?nnen die Herzen der Menschen nicht ?ndern, und die Ernsthaftigkeit kann keine tiefe Liebe bekommen. Egal wie gut du es machst, manche Menschen werden die Augen verschlie?en; egal, wie viel du sagst, manche Leute werden taub werden.",
+"Niemand wird als ausgezeichneter Mensch geboren. Man kann nicht ausgezeichnet sein, aber man kann nicht die Motivation verlieren, Fortschritte machen und sein Leben vergeuden.",
+"Versagen ist nicht lustig und manchmal unglücklich, aber es ist noch schlimmer, ein Leben zu führen, das nie sorgf?ltig versagt.",
+"Versuchen Sie, alle Tage zu füllen. Lassen Sie sich nicht von Einsamkeit umgeben. Bitte behandeln und sch?tzen Sie sich und geben Sie sich einen starken Grund. Es gibt nichts im Leben, das nicht vergehen kann.",
+"Keine Stra?e ist flach, kein Berg ist zerklüftet, und das Meer wird nicht ruhig sein.",
+"Es gibt eine Geschichte den ganzen Weg zurück, einen festen Schritt nach unten, und eine klare Distanz nach oben.",
+"Wer Licht in seinem Herzen hat, wird durch alle Finsternis und Dornen brechen.",
+"Du musst nicht tapfer sein, die Zeit wird dich heilen.",
+"Spiel nicht mit deinem Herzen, sei nicht in deinen Gefühlen gefangen, fürchte dich nicht vor der Zukunft, lies nicht die Vergangenheit, also sei vorsichtig.",
+"Wenn das Herz keinen Platz zum Ausruhen hat, wandert es überall.",
+"Wenn ich so einen Stolperstein gekannt h?tte, wie h?tte ich mich am Anfang nicht kennen k?nnen.",
+"Vielleicht bin ich nur ein Passant in deinem Leben, aber du wirst mich nicht in der Sekunde treffen.",
+"Jugend ist ein übereiltes Buch. Wir lesen es immer wieder mit Tr?nen in den Augen.",
 "All die Ungerechtigkeit in der Welt ist auf den Mangel an Kapazit?t der Parteien zurückzuführen."
 ];
 var len=sentence.length;
