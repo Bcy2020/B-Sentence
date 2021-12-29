@@ -65,4 +65,4 @@ var sentence=[
 ];
 var len=sentence.length;
 var randem=Math.floor(Math.random() * len);
-document.getElementById("B-Sentence").innerHTML = sentence[randem];
+document.getElementById("B-Sentence-chinese").innerHTML = sentence[randem];
