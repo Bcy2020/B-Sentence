@@ -68,6 +68,6 @@ var randem=Math.floor(Math.random() * len);
 document.getElementById("B-Sentence-chinese").innerHTML = sentence[randem];
 
 function chinese_change(){
-  var randem=Math.floor(Math.random() * len);
+  randem=Math.floor(Math.random() * len);
   document.getElementById("B-Sentence-chinese").innerHTML = sentence[randem];
 }
