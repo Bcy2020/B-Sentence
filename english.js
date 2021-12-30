@@ -66,3 +66,8 @@ var sentence=[
 var len=sentence.length;
 var randem=Math.floor(Math.random() * len);
 document.getElementById("B-Sentence-english").innerHTML = sentence[randem];
+
+function english_change(){
+  randem=Math.floor(Math.random() * len);
+  document.getElementById("B-Sentence-english").innerHTML = sentence[randem];
+}
