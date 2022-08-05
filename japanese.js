@@ -65,9 +65,17 @@ var sentence=[
 ];
 var len=sentence.length;
 var randem=Math.floor(Math.random() * len);
-document.getElementById("B-Sentence-japanese").innerHTML = sentence[randem];
+var x=document.getElementsByClassName("B-Sentence-japanese");
+for(i=0;i<x.length;i++)
+{
+    document.getElementsByClassName("B-Sentence-japanese")[i].innerHTML = sentence[randem];
+}
 
-function japanese_change(){
+
+function chinese_change(){
   randem=Math.floor(Math.random() * len);
-  document.getElementById("B-Sentence-japanese").innerHTML = sentence[randem];
+  for(i=0;i<x.length;i++)
+  {
+      document.getElementsByClassName("B-Sentence-japanese")[i].innerHTML = sentence[randem];
+  }
 }
