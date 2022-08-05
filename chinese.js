@@ -70,7 +70,7 @@ var sentence=[
 ];
 var len=sentence.length;
 var randem=Math.floor(Math.random() * len);
-var x=document.getElementsByClassName;
+var x=document.getElementsByClassName("B-Sentence-chinese");
 for(var i=0;i<x.length;i++)
   document.getElementsByClassName("B-Sentence-chinese")[i].innerHTML = sentence[randem];
 
