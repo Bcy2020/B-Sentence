@@ -70,9 +70,12 @@ var sentence=[
 ];
 var len=sentence.length;
 var randem=Math.floor(Math.random() * len);
-document.getElementById("B-Sentence-chinese").innerHTML = sentence[randem];
+var x=document.getElementsByClassName;
+for(var i=0;i<x.length;i++)
+  document.getElementsByClassName("B-Sentence-chinese")[i].innerHTML = sentence[randem];
 
 function chinese_change(){
   randem=Math.floor(Math.random() * len);
-  document.getElementById("B-Sentence-chinese").innerHTML = sentence[randem];
+  for(var i=0;i<x.length;i++)
+  document.getElementsByClassName("B-Sentence-chinese")[i].innerHTML = sentence[randem];
 }
